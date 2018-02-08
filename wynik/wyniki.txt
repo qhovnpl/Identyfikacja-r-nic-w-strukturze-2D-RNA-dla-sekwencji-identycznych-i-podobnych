@@ -1,0 +1,185 @@
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 100.0 
+Punktacja: 76 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ----------------------sss-siss-----hhhh-------------------------ssiissss---- 
+Procent identycznosci: 21.052631578947366 
+Punktacja: -44 
+Po dopasowaniu 
+sekwencja 1: --sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ffffffsss-m-sss----m-mm----m---s---------ssss--mmm--sis-ms---m----------ss--tt 
+Procent identycznosci: 35.8974358974359 
+Punktacja: -22 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ---------------------ssssm---------------ss---mm-ssssmm-mmmm----------ss---- 
+Procent identycznosci: 27.631578947368425 
+Punktacja: -34 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: -----------------------fs-ssss----hhhhh----------------------------sssss---t 
+Procent identycznosci: 21.052631578947366 
+Punktacja: -44 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ----------sss-----s--ssis-ssss-----hhhh----------------------sssssssssss---- 
+Procent identycznosci: 34.21052631578947 
+Punktacja: -24 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ----------fss-----s--ssis-ssss-----hhhh-----------------------ssssssssss---t 
+Procent identycznosci: 32.89473684210527 
+Punktacja: -26 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 100.0 
+Punktacja: 76 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ----------------------sss-siss-----hhhh-------------------------ssiissss---- 
+Procent identycznosci: 21.052631578947366 
+Punktacja: -44 
+Po dopasowaniu 
+sekwencja 1: --sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ffffffsss-m-sss----m-mm----m---s---------ssss--mmm--sis-ms---m----------ss--tt 
+Procent identycznosci: 35.8974358974359 
+Punktacja: -22 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ---------------------ssssm---------------ss---mm-ssssmm-mmmm----------ss---- 
+Procent identycznosci: 27.631578947368425 
+Punktacja: -34 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: -----------------------fs-ssss----hhhhh----------------------------sssss---t 
+Procent identycznosci: 21.052631578947366 
+Punktacja: -44 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ----------sss-----s--ssis-ssss-----hhhh----------------------sssssssssss---- 
+Procent identycznosci: 34.21052631578947 
+Punktacja: -24 
+Po dopasowaniu 
+sekwencja 1: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+sekwencja 2: ----------fss-----s--ssis-ssss-----hhhh-----------------------ssssssssss---t 
+Procent identycznosci: 32.89473684210527 
+Punktacja: -26 
+Po dopasowaniu 
+sekwencja 1: ----------------------sss-siss-----hhhh-------------------------ssiissss---- 
+sekwencja 2: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 21.052631578947366 
+Punktacja: -44 
+Po dopasowaniu 
+sekwencja 1: ----------------------sss-siss-----hhhh-------------------------ssiissss---- 
+sekwencja 2: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 21.052631578947366 
+Punktacja: -44 
+Po dopasowaniu 
+sekwencja 1: ------sss-siss---hhhhss---iis-s-ss-- 
+sekwencja 2: ffffffsssms-ssmmmmsssssmmmsismsmsstt 
+Procent identycznosci: 36.11111111111111 
+Punktacja: -10 
+Po dopasowaniu 
+sekwencja 1: ssssisshhhhss--iissss 
+sekwencja 2: ssssmssmmssssmmmmmmss 
+Procent identycznosci: 47.61904761904761 
+Punktacja: -1 
+Po dopasowaniu 
+sekwencja 1: -ssssisshhhhssiissss 
+sekwencja 2: fssss-shhhhhss--ssst 
+Procent identycznosci: 70.0 
+Punktacja: 8 
+Po dopasowaniu 
+sekwencja 1: --ssssi---sshhhh---ssiissss 
+sekwencja 2: ssssssissssshhhhsssssssssss 
+Procent identycznosci: 62.96296296296296 
+Punktacja: 7 
+Po dopasowaniu 
+sekwencja 1: --ssssi---sshhhh--ssiissss- 
+sekwencja 2: fsssssissssshhhhsssssssssst 
+Procent identycznosci: 62.96296296296296 
+Punktacja: 7 
+Po dopasowaniu 
+sekwencja 1: ffffffsss-m-sss----m-mm----m---s---------ssss--mmm--sis-ms---m----------ss--tt 
+sekwencja 2: --sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 35.8974358974359 
+Punktacja: -22 
+Po dopasowaniu 
+sekwencja 1: ffffffsss-m-sss----m-mm----m---s---------ssss--mmm--sis-ms---m----------ss--tt 
+sekwencja 2: --sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 35.8974358974359 
+Punktacja: -22 
+Po dopasowaniu 
+sekwencja 1: ffffffsssms-ssmmmmsssssmmmsismsmsstt 
+sekwencja 2: ------sss-siss---hhhhss---iis-s-ss-- 
+Procent identycznosci: 36.11111111111111 
+Punktacja: -10 
+Po dopasowaniu 
+sekwencja 1: ffffffsssmsssmmmmsssssmmmsismsmsstt 
+sekwencja 2: -----ssssm-ss--mm-ssssmmm---mmmss-- 
+Procent identycznosci: 54.285714285714285 
+Punktacja: 3 
+Po dopasowaniu 
+sekwencja 1: ffffffsssmsssmmmmsssssmmmsismsmsstt 
+sekwencja 2: -----f-----ss----ssshhhhhs-s-s-ss-t 
+Procent identycznosci: 34.285714285714285 
+Punktacja: -11 
+Po dopasowaniu 
+sekwencja 1: ffffffss-smsssmmmmsssssmmmsismsmsstt 
+sekwencja 2: --ssssssissssshhhhsssss---s-s-s-ss-s 
+Procent identycznosci: 44.44444444444444 
+Punktacja: -4 
+Po dopasowaniu 
+sekwencja 1: ffffffss-smsssmmmmsssssmmmsismsmsstt 
+sekwencja 2: --fsssssissssshhhhsssss---s-s-s-ss-t 
+Procent identycznosci: 50.0 
+Punktacja: 0 
+Po dopasowaniu 
+sekwencja 1: ---------------------ssssm---------------ss---mm-ssssmm-mmmm----------ss---- 
+sekwencja 2: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 27.631578947368425 
+Punktacja: -34 
+Po dopasowaniu 
+sekwencja 1: ---------------------ssssm---------------ss---mm-ssssmm-mmmm----------ss---- 
+sekwencja 2: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 27.631578947368425 
+Punktacja: -34 
+Po dopasowaniu 
+sekwencja 1: ssssmssmmssssmmmmmmss 
+sekwencja 2: ssssisshhhhss--iissss 
+Procent identycznosci: 47.61904761904761 
+Punktacja: -1 
+Po dopasowaniu 
+sekwencja 1: -----ssssm-ss--mm-ssssmmm---mmmss-- 
+sekwencja 2: ffffffsssmsssmmmmsssssmmmsismsmsstt 
+Procent identycznosci: 54.285714285714285 
+Punktacja: 3 
+Po dopasowaniu 
+sekwencja 1: -ssssms--smmssssmmmmmmss 
+sekwencja 2: fssss-shhhhhssss------st 
+Procent identycznosci: 41.66666666666667 
+Punktacja: -4 
+Po dopasowaniu 
+sekwencja 1: --ssssmssmms----sssmmmmmmss 
+sekwencja 2: ssssssissssshhhhsssssssssss 
+Procent identycznosci: 44.44444444444444 
+Punktacja: -3 
+Po dopasowaniu 
+sekwencja 1: -ssssms-smmss----ssmmmmmmss- 
+sekwencja 2: fssss-sissssshhhhsssssssssst 
+Procent identycznosci: 42.857142857142854 
+Punktacja: -4 
+Po dopasowaniu 
+sekwencja 1: -----------------------fs-ssss----hhhhh----------------------------sssss---t 
+sekwencja 2: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 21.052631578947366 
+Punktacja: -44 
+Po dopasowaniu 
+sekwencja 1: -----------------------fs-ssss----hhhhh----------------------------sssss---t 
+sekwencja 2: sssssssmmssssmmmmmsmmssssmsssshhhhhhhhhssssmmmmmsssssmmsmmmmsssssssssssstttt 
+Procent identycznosci: 21.052631578947366 
+Punktacja: -44 
